@@ -5,6 +5,7 @@ Documentation site for Certificate in Environmental Data Science program
 The documentation is created using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), which recommends using pip for intallation as well as using a [virual environment](https://realpython.com/what-is-pip/#using-pip-in-a-python-virtual-environment).
 
 Use the following steps to contribute to the development of this documentation
+
 0. Clone this repository
 ```bash
 git clone put-link-here
